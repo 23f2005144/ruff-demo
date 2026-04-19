@@ -1,2 +1,2 @@
-x = 10  # unused variable
+x = 10
 print("hi")
