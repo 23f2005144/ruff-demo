@@ -1,2 +1,4 @@
-x = 10  # unused variable
-print("hi")
+import os,sys
+
+x = 10
+print("hi")    
